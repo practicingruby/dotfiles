@@ -1,5 +1,3 @@
-colorscheme zenburn
-
 set nobackup
 set nowritebackup
 set noswapfile
