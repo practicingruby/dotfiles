@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/seacreature'
+let g:netrw_dirhist_2='/Users/seacreature/devel'
+let g:netrw_dirhist_3='/Users/seacreature/devel/practicing-ruby/examples/v6/003/actors_from_scratch'
+let g:netrw_dirhist_4='/Users/seacreature/devel/practicing-ruby/paid_content'
